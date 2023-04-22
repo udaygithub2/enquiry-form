@@ -3,9 +3,9 @@
   <head>
   <title>form page</title>
   </head>
-  <CENTER>
-  <table BORDER="2PX" bGcolor="SKYBLUE" bordercolor="yellow"cellspacing="0px">
+  <table BORDER="2PX">
   <form>
+  <body>
   <tr>
   <td>NAME</td>
   <td><input type="text" required></td></tr>
@@ -53,8 +53,7 @@
    <TR>
    <TD colspan="2"ALIGN="CENTER"height="50PX"bGcolor="GRAY">
    <INPUT TYPE="button"VALUE="CANCEL">
-   <input TYPE="SUBMIT"></TD></TR>
-   </CENTER>
+   <input TYPE="SUBMIT"></TD></tr>
    </body>
    </form>
   </table>

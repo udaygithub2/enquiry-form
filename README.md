@@ -4,16 +4,14 @@
   <title>form page</title>
   </head>
   <CENTER>
-  <table BORDER="2PX"bGcolor="SKYBLUE" bordercolor="yellow"cellspacing="0px">
+  <table BORDER="2PX" bGcolor="SKYBLUE" bordercolor="yellow"cellspacing="0px">
   <form>
-  <DIV style="background-color: YELLOW;font-size:30PX;COLOR:RED;font-weight:bold;width: 500PX;"><marquee direction="right"   scrollamount="20"behaviour="alternate">REGISTRATION FORM</marquee></DIV>
-  <body topmargin="100"bGcolor="CYAN"> 
   <tr>
   <td>NAME</td>
   <td><input type="text" required></td></tr>
   <tr>
   <td>ROLL NO</td>
-  <TD><INPUT TYPE="TEXT" required></TD>
+  <TD><INPUT TYPE="number" required></TD>
   </tr>
   <tr>
   <td>E-MAIL</td>

@@ -14,12 +14,13 @@
   <TD><INPUT TYPE="number" required></TD>
   </tr>
   <tr>
-  <td>E-MAIL</td>
+  E-MAIL
   <TD><INPUT TYPE="email" required></TD>
   </TR>
   <TR>
   <TD>GENDER</TD>
-  <TD><INPUT TYPE="RADIO"NAME="TYPE" required>MALE
+  <TD>
+  <INPUT TYPE="RADIO"NAME="TYPE" required>MALE
   <INPUT type="RADIO"NAME="TYPE" required>FEMALE</TD>
   </TR>
   <TR>
